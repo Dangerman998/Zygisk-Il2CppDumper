@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name: com.ludia.jw2
-          description: "your game package name:"
+          description: "com.ludia.jw2:"
           required: true
 
 jobs:
