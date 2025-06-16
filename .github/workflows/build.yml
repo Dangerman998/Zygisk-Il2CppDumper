@@ -2,7 +2,7 @@ name: Build
 on:
   workflow_dispatch:
       inputs:
-        package_name:
+        package_name: com.ludia.jw2
           description: "com.ludia.jw2:"
           required: true
 
